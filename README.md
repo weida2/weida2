@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @weida2
-- 👀 I’m interested in code,storage..
-- 🌱 I’m currently learning storage,c,c++..
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in code, drink!
+- 🌱 I’m currently learning storage, spdk ,c/c++..
+- 💞️ I’m looking to collaborate on LOL!
 - 📫 How to reach me qq:1837544969..
 
 <!---
